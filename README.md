@@ -1,4 +1,4 @@
-```markdown
+
 # ScanTool
 
 ## Overview
