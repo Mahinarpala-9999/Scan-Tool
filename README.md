@@ -83,5 +83,5 @@ MAHENDRANATHREDDY NARPALA
 
 ## Acknowledgments
 Special thanks to the creators of Nikto, Nmap, and Dirsearch for their amazing tools.
-```
+
 
