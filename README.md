@@ -79,7 +79,7 @@ Feel free to fork this repository, submit pull requests, or suggest improvements
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-[Your Name]
+MAHENDRANATHREDDY NARPALA
 
 ## Acknowledgments
 Special thanks to the creators of Nikto, Nmap, and Dirsearch for their amazing tools.
